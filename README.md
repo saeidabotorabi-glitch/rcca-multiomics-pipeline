@@ -1,6 +1,5 @@
 # rcca-multiomics-pipeline
 R pipeline for regularized CCA (rCCA) across multi-omics datasets, including feature coordinate export and variable-circle visualization.
-# rcca-multiomics-pipeline
 
 This repository contains an R-based pipeline for regularized Canonical Correlation Analysis (rCCA) across multiple omics datasets. The workflow includes feature coordinate export and variable-circle visualization to support interpretation of cross-omics relationships.
 
